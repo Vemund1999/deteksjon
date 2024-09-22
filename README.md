@@ -29,6 +29,10 @@ then run the file
 python main.py
 ```
 
+In the image you can see cars being tracked, along with various info.
+
+To the right is a coordinate system with a bird's-eye view of the motorway.
+
 ![bilde](https://github.com/user-attachments/assets/4f7ba484-6355-4b4f-80ec-f2fb206bc29a)
 
 
