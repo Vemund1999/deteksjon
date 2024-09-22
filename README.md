@@ -4,7 +4,7 @@ make sure to be on the master branch, at https://github.com/Vemund1999/deteksjon
 the .pt models are not included in the project for now due to big file sizes.
 
 The project tracks:
-- cars driving on the rad
+- cars driving on the road
 - the color on the car, using k-means clustering
 - an ID is added to the car
 - counts of the cars, how many cars are being spotted, and how many have been spotted
